@@ -11,6 +11,7 @@
       "icon": "./assets/images/fotoisaac.png"
     },
     "android": {
+      "package": "com.isak1956x.couteau",
       "adaptiveIcon": {
         "backgroundColor": "#FFFFFF",
         "foregroundImage": "./assets/images/fotoisaac.png"
